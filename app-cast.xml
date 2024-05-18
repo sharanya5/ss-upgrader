@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Debt Now App - Appcast</title>
+        <item>
+            <title>Version 0.2.1</title>
+            <enclosure url="http://localhost:1337/Sparkle_Test_App.zip"
+                       sparkle:version="2.0" sparkle:os="iOS"/>
+            <sparkle:version>0.2.1</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+        </item>
+    </channel>
+</rss>
