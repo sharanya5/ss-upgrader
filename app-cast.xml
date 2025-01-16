@@ -3,22 +3,14 @@
     <channel>
         <title>SoundStorming</title>
         <item>
-            <title>Version 1.4.12</title>
+            <title>Version 1.4.13</title>
             <enclosure url="https://apps.apple.com/us/app/soundstorming/id6502117477"
-                       sparkle:version="2.0" sparkle:os="iOS"/>
-            <sparkle:version>1.4.12</sparkle:version>
-            <sparkle:shortVersionString>1.4.12</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>1.4.12</sparkle:minimumSystemVersion>
-            <sparkle:tags>
-                <sparkle:criticalUpdate/>
-            </sparkle:tags>
-        </item>
-        <item>
-            <title>Android Release</title>
-            <enclosure sparkle:version="2.0" sparkle:os="android"/>
-            <sparkle:version>1.4.12</sparkle:version>
-            <sparkle:shortVersionString>1.4.12</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>1.4.12</sparkle:minimumSystemVersion>
+                sparkle:version="2.0" sparkle:os="ios"/>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.app.soundstorming&gl=US&hl=en&_cb=1737022164888983" 
+                sparkle:version="2.0" sparkle:os="android"/>
+            <sparkle:version>1.4.13</sparkle:version>
+            <sparkle:shortVersionString>1.4.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>1.4.13</sparkle:minimumSystemVersion>
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
